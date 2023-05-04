@@ -1,0 +1,14 @@
+.vscode
+.kdev*
+*.kdev*
+*.o
+*.so
+main
+build
+bin
+release
+debug
+pcaps
+libr3s.*
+docs
+include/include
